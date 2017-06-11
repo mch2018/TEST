@@ -1,5 +1,2 @@
 hello
-https://github.com/mch2018/TEST
-dddd
-eeeee
-fffffff
+git clone https://github.com/mch2018/TEST.git
