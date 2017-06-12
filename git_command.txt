@@ -5,3 +5,5 @@ git commit -m "comment"
 git push
 //mch2018
 //mch1!2@
+if git push not work you can git pull
+
